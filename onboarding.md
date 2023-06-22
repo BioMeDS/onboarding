@@ -1,6 +1,6 @@
 # BioMeDS Group Onboarding Information
 
-# Mission Statement
+## Mission Statement
 
 Our mission is to advance the field of (bio)medical research through the development and application of cutting-edge (bio)informatic tools. We are dedicated to unlocking the full potential of biomedical data by creating innovative methods and tools that extract valuable insights and enhance the understanding of complex biological systems.
 
@@ -11,7 +11,7 @@ As advocates of Open Science, we are committed to upholding the highest standard
 BioMedical Data Science also aims to provide high-quality teaching and training to students, nurturing the next generation of (bio)medical data scientists. We believe in equipping students with the necessary skills and knowledge to excel in this rapidly evolving field. Through mentorship, workshops, and educational resources, we strive to cultivate a learning environment that fosters intellectual curiosity, critical thinking, and practical expertise.
 
 
-# Expectations
+## Expectations
 
 **Your role:** We expect that you will take primary responsibility for the success of your research project and career development.
 As a member of the lab, you are expected to participate fully in the team.
@@ -55,3 +55,8 @@ While a full enumeration of ethical considerations is outside of the scope of th
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with Markus.
 
 **Say 'no':** While we foster collaborations and aim to help our colleagues with any requests, time is an essential and limited resource. Therefore, it is necessary to carefully evaluate each new commitment. Declining (good) opportunities for collaboration or requests for support is a hard thing to do. But in order to make progress in existing projects, while keeping our high standards, it is inevitable. If you have to say 'no', always do so in a curteous but clear manner. Don't leave requests unanswered.
+
+## Additional Resources
+
+- [CCTB getting started guide](https://github.com/CCTB-UW/guides/blob/main/Beginners.md)
+
