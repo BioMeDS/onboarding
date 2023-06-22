@@ -54,3 +54,4 @@ While a full enumeration of ethical considerations is outside of the scope of th
 
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with Markus.
 
+**Say 'no':** While we foster collaborations and aim to help our colleagues with any requests, time is an essential and limited resource. Therefore, it is necessary to carefully evaluate each new commitment. Declining (good) opportunities for collaboration or requests for support is a hard thing to do. But in order to make progress in existing projects, while keeping our high standards, it is inevitable. If you have to say 'no', always do so in a curteous but clear manner. Don't leave requests unanswered.
