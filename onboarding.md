@@ -56,6 +56,41 @@ In addition, please don't hesitate to raise any questions or concerns that you h
 
 **Say 'no':** While we foster collaborations and aim to help our colleagues with any requests, time is an essential and limited resource. Therefore, it is necessary to carefully evaluate each new commitment. Declining (good) opportunities for collaboration or requests for support is a hard thing to do. But in order to make progress in existing projects, while keeping our high standards, it is inevitable. If you have to say 'no', always do so in a curteous but clear manner. Don't leave requests unanswered.
 
+## Communication
+
+### General
+
+**Mattermost:** We use mattermost for rapid communication within the lab.
+If you plan on sending an e-mail to someone within the lab, try a mattermost message instead.
+This helps to keep communications in one place.
+There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `biomeds`, `town-square`, `lunch`, `cctb-seminar`.
+
+**Social Media:** Lab members are encouraged to communicate through public social media.
+If a lab member chooses to do so on an account that notes an affiliation with the lab, the lab member is expected to follow our code of conduct.
+Certain employers may require a disclaimer that the lab member's views do not represent those of the employer.
+
+**Projects:** By the nature of our research, lab members will often have the opportunity to participate in projects managed via private or publicly accessible source code repositories.
+In these cases, lab members are expected to: follow the code of conduct; expect that private repositories will be world accessible; and to communicate via the project-specific medium
+For example, when one lab member reports an issue on a project on GitHub, it would not be appropriate for another lab member to reply "I'll drop by your desk and show you how to solve that."
+It would be most appropriate for the conversation to take place on GitHub issues.
+
+**IP/Openness:** This is handled in accordance with the instructions from our research sponsors and [university guidance](https://www.uni-wuerzburg.de/sft/erfindungen-patente-und-lizenzen-jmu-und-ukw/).
+The philosophy of the lab, is to be as open as possible. Restrictions may apply, e.g. due to licensing, privacy, or regulatory concerns.
+
+**Space:** Currently, all lab members, including students get a workspace assigned in the CCTB. You are free to set up this workspace with available hardware from the CCTB. It is your obligation to keep your workplace tidy and clean.
+
+**Calendars:** There is a public Exchange calendar for the group (link in the BioMeDS channel in mattermost, currently read only).
+This calendar is used for noting individual availability (i.e. whether you'll be out of office).
+It should be used, for example, to note vacations, conference travel, and other workday conflicts.
+It also contains group events like lab meetings.
+
+**Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
+
++ GitHub (BioMeDS)
++ Physics GitLab
++ Mattermost (BioMeDS)
+
+
 ## Additional Resources
 
 - [CCTB getting started guide](https://github.com/CCTB-UW/guides/blob/main/Beginners.md)
