@@ -90,6 +90,23 @@ It also contains group events like lab meetings.
 + Physics GitLab
 + Mattermost (BioMeDS)
 
+### Meetings
+
+**Lab Meeting:** 
+- Lab meetings are scheduled for one microcentury on Wednesdays 3pm. All members of the lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
+
+   **Meeting Agenda:** Topics for the next meeting are collected in [the collaborative note](http://10.87.174.31:3000/ZlhAamyNQ3OOLm1QicPIug). You can add any topic, you would like to discuss with the group. This document is also used to keep minutes of the lab meetings. Beside general organizational topics, and those collected in the note, we always do a REPL (retrospective and planning). In the REPL every member briefly reflects on the work since the last meeting, and lays out the plan until the next meeting. Everyone should identify one specific win and one specific tangible goal. Additionally, we regularly do rotations of project presentations or introductions to tools and techniques (announced in advance).
+
+**Ad-Hoc Meetings:** Beside regular lab meetings, any member can schedule an ad hoc meeting as needed. Ad hoc meetings are meant to help lab members get advice and help on projects, prepare for talks, oral exams, etc.
+
+**Individual Meetings:** We schedule individual meetings, at least once per week. These meetings can be live or via Zoom.
+ When you join the lab, we will meet more frequently to kick-off your project.
+ Once your project is running, we will transition to weekly individual meetings.
+ Please take care of scheduling your individual meetings with Markus, yourself.
+ The goal of the weekly meeting is to:
+
+ 1.  Discuss challenges
+ 2.  Plan strategy
 
 ## Additional Resources
 
