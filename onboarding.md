@@ -108,6 +108,41 @@ It also contains group events like lab meetings.
  1.  Discuss challenges
  2.  Plan strategy
 
+## Source Code, Data, and Reproducibility
+
+**Pride:** We expect lab members to sign their code.
+To quote from _The Pragmatic Programmer_:
+
+> Craftsmen of an earlier age were proud to sign their work.
+You should be, too…
+People should see your name on a piece of code and expect it to be solid, well written, tested, and documented.
+
+While some code will be proof-of-concept code, it should be of a form that inspires confidence.
+
+**Language:** We write code in a programming language, suitable for the task. For our analyses we mainly use Python, R, or Julia. Knowing the basic syntax of these languagens allows everyone in the lab to understand analytical code.
+
+**Licensing:** We expect code that we produce to be licensed under a MIT license.
+Unless a funding agency requires something different, we'll use this.
+If you have questions or concerns about licensing, feel free to raise them in Mattermost.
+
+**Version Control Services:** Our primary version control service is GitHub, and we have a [`BioMeDS` organization](https://github.com/BioMeDS) there.
+We expect that lab members will maintain their code in repositories under these team accounts.
+
+**Projects that didn't work:** We expect that repositories will contain failures (e.g. proof-of-concepts that didn't work).
+This is ideal.
+Being able to find them will make sure we don't make the same failure twice.
+
+**Non-Code Versioning:** Data (or models, or anything else), that is too large to be handled with git, should be managed either through DVC or DataLad.
+
+**Data Management:** For publicly available data, scripts used to download and process these data should be preserved, as should the versions of items used in processing (e.g. probe to gene mappings).
+These items should be version controlled.
+Where possible, intermediate files of reasonable size can be stored to facilitate re-use, but the process to regenerate these files from publicly available data should be preserved.
+When we generate data, they should be stored in a location where they are replicated and uploaded to the relevant database as soon as possible (e.g. GEO for gene expression, SRA for sequencing, Zenodo).
+
+**Reproducibility:** We expect all lab members to maintain code that performs reproducible analyses.
+This can be in the form of makefiles, shell scripts, or other automation approaches that allow analyses to be automatically performed.
+We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
+
 ## Additional Resources
 
 - [CCTB getting started guide](https://github.com/CCTB-UW/guides/blob/main/Beginners.md)
