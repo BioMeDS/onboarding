@@ -143,6 +143,10 @@ When we generate data, they should be stored in a location where they are replic
 This can be in the form of makefiles, shell scripts, or other automation approaches that allow analyses to be automatically performed.
 We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
 
+## Protocol Guidelines
+
+Todo
+
 ## Additional Resources
 
 - [CCTB getting started guide](https://github.com/CCTB-UW/guides/blob/main/Beginners.md)
